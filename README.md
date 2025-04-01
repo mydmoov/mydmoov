@@ -48,3 +48,6 @@
 ### ⚡ Fun fact:
 
 * J'adore la programmation et les jeux vidéos
+* 
+## #30NitesOfCode:
+  ![@Glax #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Glax)
